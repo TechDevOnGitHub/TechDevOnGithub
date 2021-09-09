@@ -1,8 +1,6 @@
 
 ### Hey there, I'm Tech~ 👋
 
-<br>
-
 ## I am a graphics developer and programming enthusiast!
 Hey, I'm Tech (aka Lunéo), a selftaught developer and music producer from Germany 🇩🇪 <br>
 I specialize in graphics development but I am also looking into <br>
@@ -10,8 +8,6 @@ game-/software- and web-development from time to time 👾
 
 In my freetime I mostly make the computer go bleep bloop, work on music <br>
 drink coffee to keep myself alive and play with my cat :3
-
-<br>
 
 ### Languages and Tools I use:
 <details>
