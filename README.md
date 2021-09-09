@@ -6,8 +6,8 @@ Hey, I'm Tech (aka Lunéo), a selftaught developer and music producer from Germa
 I specialize in graphics development but I am also looking into <br>
 game-/software- and web-development from time to time 👾
 
-In my freetime I mostly make the computer go bleep bloop, work on music <br>
-drink coffee to keep myself alive and play with my cat :3
+In my freetime I mostly make the computer go bleep bloop, work on music, drink <br>
+coffee to keep myself alive and play with my cat :3
 
 ### Languages and Tools I use:
 <details>
