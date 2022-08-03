@@ -1,53 +1,16 @@
 
 ### Hey there, I'm Tech~ 👋
-
-## I am a graphics developer and programming enthusiast!
-Hey, I'm Tech (aka Lunéo), a selftaught developer and music producer from Germany 🇩🇪 <br>
-I specialize in graphics development but I am also looking into <br>
-game-/software- and web-development from time to time 👾
+---
+I’m a graphics developer from Germany specializing in (realtime-) computer graphics with a heavy focus <br>
+on user interaction. My goal is to improve on current methodology in the field and make <br>
+learning about computer graphics more accessible to everyone. <br>
+<br>
+Even though I specialize in graphics development, I am also looking into <br>
+game-/software- and web-development from time to time 👾 
 
 In my freetime I mostly make the computer go bleep bloop, work on music, drink <br>
-coffee to keep myself alive and play with my cat :3
+coffee to keep myself alive and play with my cat  ʕ •ᴥ•ʔ
 
-### Languages and Tools I use:
-<details>
-    <summary>☕️ Java</summary>
-    &nbsp;&nbsp;&nbsp;&nbsp;Java was the first language I learned properly. The only <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;use that I currently have for it though, is Minecraft Spigot Plugins / Forge Mods.
-</details>
-
-<details>
-    <summary>✨ GLSL</summary>
-    &nbsp;&nbsp;&nbsp;&nbsp;What I do 80% of the time when programming is graphics development. <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;Shaders (or Minecraft shaders in particular) always fascinated me <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;and so that is what I am specialising in, which I obviously have to either use GLSL or HLSL for.
-</details>
-
-<details>
-    <summary>⚙️ Rust</summary>
-    &nbsp;&nbsp;&nbsp;&nbsp;I am fairly new to Rust but really enjoy it! <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;After being done with game prototyping in Unity, I write my games in<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;Rust alongside my very barebones rust game engine.
-</details>
-
-<details>
-    <summary>🌎 HTML / CSS / JS</summary>
-    &nbsp;&nbsp;&nbsp;&nbsp;Well... I use it for web stuff ig?
-</details>
-
-<details>
-    <summary>🔪 C#</summary>
-    &nbsp;&nbsp;&nbsp;&nbsp;I use C# mainly for game prototyping in Unity.
-</details>
-
-<details>
-    <summary>⚡️ Electron</summary>
-    &nbsp;&nbsp;&nbsp;&nbsp;It's what I use for nearly anything related to <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;software development. Since I am fairly confident in my full stack <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;web development skills, working with Electron works like a charm for me.
-</details>
-
-<br>
-
-![TechDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechDevOnGithub&show_icons=true&theme=tokyonight)
-[![TechDev's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechDevOnGithub&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### 🌱 Languages & Tools I use
+---
+![GLSL](https://img.shields.io/badge/-GLSL-black?style=flat-square&logo=opengl) ![C++](https://img.shields.io/badge/C++-black.svg?style=flat-square&logo=c%2B%2B) ![Julia](https://img.shields.io/badge/Julia-black.svg?style=flat-square&logo=julia) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss) ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=node.js) ![VueJS](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js) ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase) ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust ) ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=oracle) ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode) ![Intellij](https://img.shields.io/badge/-Intellij-black?style=flat-square&logo=jetbrains) ![NuxtJS](https://img.shields.io/badge/-NuxtJS-black?style=flat-square&logo=nuxt.js)
