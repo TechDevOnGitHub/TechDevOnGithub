@@ -1,5 +1,5 @@
 
-# 👋 Hey there, I'm Loui Bénas, also known as TechDevOnGithub!
+# 👋 Hey there, I'm Loui Bénas, also known as Tech!
 
 🌍 I'm a graphics developer from Germany specializing in real-time computer graphics with a heavy focus on user interaction. My goal is to improve current methodologies in the field and make learning about computer graphics more accessible to everyone.
 
