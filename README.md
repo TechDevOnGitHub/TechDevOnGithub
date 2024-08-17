@@ -1,15 +1,21 @@
 
 ### Hey there, I'm Tech~ 👋
 ---
-I’m a graphics developer from Germany specializing in (realtime-) computer graphics with a heavy focus <br>
-on user interaction. My goal is to improve on current methodology in the field and make <br>
-learning about computer graphics more accessible to everyone. <br>
-<br>
-Even though I specialize in graphics development, I am also looking into <br>
-game-/software- and web-development from time to time 👾 
+# 👋 Hey there, I'm Loui Bénas, also known as TechDevOnGithub!
 
-In my freetime I mostly make the computer go bleep bloop, work on music, drink <br>
-coffee to keep myself alive and play with my cat  ʕ •ᴥ•ʔ
+🌍 I'm a graphics developer from Germany specializing in real-time computer graphics with a heavy focus on user interaction. My goal is to improve current methodologies in the field and make learning about computer graphics more accessible to everyone.
+
+🚀 Founder of **Aurealis Graphics**, where I focus on innovation and creativity in the software industry.
+
+🎮 I develop shader packs for **Minecraft: Java Edition**, including:
+- **Prism**: A research-based pathtracing shader pack.
+- **Lux**: A high-fidelity shader pack inspired by Capt Tatsu's BSL Shaders, tailored for mid-to-high-end users.
+
+💻 Besides graphics development, I also explore game, software, and web development from time to time.
+
+🎶 In my free time, I enjoy making the computer go bleep bloop, working on music, drinking coffee to keep myself alive, and playing with my cat ʕ •ᴥ•ʔ.
+
+📈 Check out my projects and contributions, and let’s connect to explore the world of graphics together!
 
 ### 🌱 Languages & Tools I use
 ---
